@@ -1,0 +1,11 @@
+.ant-modal-header {
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom: none;
+}
+.ant-modal-content {
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.ant-modal-footer {
+    border-top: none;
+}
